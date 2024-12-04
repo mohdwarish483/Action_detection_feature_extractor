@@ -1,0 +1,1410 @@
+[
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.5565605163574219
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.43286648392677307
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0027972543612122536
+        },
+        {
+            "label": "parkour",
+            "score": 0.0015037045814096928
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0013616085052490234
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.5286997556686401
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.4435887634754181
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.004051250405609608
+        },
+        {
+            "label": "parkour",
+            "score": 0.0028838124126195908
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0028419310692697763
+        }
+    ],
+    [
+        {
+            "label": "extinguishing fire",
+            "score": 0.787119448184967
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.19770120084285736
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.0064549013040959835
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.005416818894445896
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.001602103584446013
+        }
+    ],
+    [
+        {
+            "label": "extinguishing fire",
+            "score": 0.5578112006187439
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.4170619547367096
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.01024843193590641
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.0102436738088727
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0022067446261644363
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.867641270160675
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.10542721301317215
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.008546248078346252
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.006131843663752079
+        },
+        {
+            "label": "spray painting",
+            "score": 0.002602578606456518
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.6767266988754272
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.2776155471801758
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.02449384145438671
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.006231237202882767
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0034239348024129868
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.6060094237327576
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.2913999855518341
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.07040073722600937
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.018332773819565773
+        },
+        {
+            "label": "spray painting",
+            "score": 0.0032340046018362045
+        }
+    ],
+    [
+        {
+            "label": "extinguishing fire",
+            "score": 0.7267171740531921
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.20682954788208008
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.04209192469716072
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.015081916004419327
+        },
+        {
+            "label": "spray painting",
+            "score": 0.002587865572422743
+        }
+    ],
+    [
+        {
+            "label": "extinguishing fire",
+            "score": 0.3513871133327484
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.3266516327857971
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.2420455366373062
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.06213653087615967
+        },
+        {
+            "label": "robot dancing",
+            "score": 0.002254728227853775
+        }
+    ],
+    [
+        {
+            "label": "unloading truck",
+            "score": 0.5048542022705078
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.2112516313791275
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.15734592080116272
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.10524950176477432
+        },
+        {
+            "label": "spray painting",
+            "score": 0.002250469522550702
+        }
+    ],
+    [
+        {
+            "label": "unloading truck",
+            "score": 0.7480612993240356
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.1899765133857727
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.06065196543931961
+        },
+        {
+            "label": "moving furniture",
+            "score": 0.00035377434687688947
+        },
+        {
+            "label": "pushing car",
+            "score": 0.000265812617726624
+        }
+    ],
+    [
+        {
+            "label": "unloading truck",
+            "score": 0.7369057536125183
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.2572994530200958
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.005265428218990564
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.00023238206631504
+        },
+        {
+            "label": "moving furniture",
+            "score": 8.216936112148687e-05
+        }
+    ],
+    [
+        {
+            "label": "extinguishing fire",
+            "score": 0.4479183554649353
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.40361833572387695
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.14586488902568817
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.0006492213578894734
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0005157807026989758
+        }
+    ],
+    [
+        {
+            "label": "extinguishing fire",
+            "score": 0.4886511564254761
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.2669224739074707
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.24242596328258514
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0009379452676512301
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.00036597735015675426
+        }
+    ],
+    [
+        {
+            "label": "unloading truck",
+            "score": 0.8232907056808472
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.05869515612721443
+        },
+        {
+            "label": "parkour",
+            "score": 0.03318225219845772
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.03311479091644287
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.026794806122779846
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.7592694163322449
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.09184116125106812
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.05626610293984413
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.04866514354944229
+        },
+        {
+            "label": "plastering",
+            "score": 0.017141694203019142
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9761970639228821
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.014401344582438469
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.003543199971318245
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.002434495138004422
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.0006563718197867274
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9808916449546814
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.009083460085093975
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.00391709990799427
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0016478440957143903
+        },
+        {
+            "label": "spraying",
+            "score": 0.0009688931168057024
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9880565404891968
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.0052136629819869995
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0022428990341722965
+        },
+        {
+            "label": "spraying",
+            "score": 0.0009823883883655071
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0008975305245257914
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9593734741210938
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.028795931488275528
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0020313896238803864
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0019405942875891924
+        },
+        {
+            "label": "welding",
+            "score": 0.0018953530816361308
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9388033747673035
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.04644814878702164
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.003620683215558529
+        },
+        {
+            "label": "spraying",
+            "score": 0.00229345983825624
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.001881551812402904
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9485540390014648
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.02202446199953556
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.01021663099527359
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0058815497905015945
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.005625396501272917
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9798269271850586
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.011658313684165478
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0022211780305951834
+        },
+        {
+            "label": "spraying",
+            "score": 0.0019675542134791613
+        },
+        {
+            "label": "spray painting",
+            "score": 0.0016619552625343204
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.981767475605011
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.01109651755541563
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0032495767809450626
+        },
+        {
+            "label": "spraying",
+            "score": 0.0009752152254804969
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0007638472598046064
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9846531748771667
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.009289556182920933
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.002009380841627717
+        },
+        {
+            "label": "spraying",
+            "score": 0.0012162489583715796
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0006599860498681664
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9805428981781006
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.01125480979681015
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.00312087987549603
+        },
+        {
+            "label": "spraying",
+            "score": 0.0014713789569213986
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0008366787224076688
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9725762009620667
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.017760803923010826
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0030528376810252666
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0015866787871345878
+        },
+        {
+            "label": "spraying",
+            "score": 0.001366098877042532
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9752654433250427
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.015971433371305466
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.002338311867788434
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0020157413091510534
+        },
+        {
+            "label": "spraying",
+            "score": 0.0010128556750714779
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9772515296936035
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.014544281177222729
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.002280615037307143
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0020318517927080393
+        },
+        {
+            "label": "spraying",
+            "score": 0.0008942710119299591
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9764969944953918
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.013754171319305897
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0027821084950119257
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0024067293852567673
+        },
+        {
+            "label": "spraying",
+            "score": 0.0009889148641377687
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9739844799041748
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.013452243991196156
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0037093295250087976
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.003445723792538047
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.0011722880881279707
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9752511382102966
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.011464416049420834
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.003755097510293126
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0036364737898111343
+        },
+        {
+            "label": "spraying",
+            "score": 0.0011362854856997728
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9768210649490356
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.011598100885748863
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0028718893881887197
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0027072823140770197
+        },
+        {
+            "label": "spraying",
+            "score": 0.0012246256228536367
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9767121076583862
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.012440727092325687
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.003092046594247222
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0023865588009357452
+        },
+        {
+            "label": "spraying",
+            "score": 0.0011900740209966898
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9756340384483337
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.01811213232576847
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.0018130199750885367
+        },
+        {
+            "label": "spraying",
+            "score": 0.0011220084270462394
+        },
+        {
+            "label": "spray painting",
+            "score": 0.000927756424061954
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9663226008415222
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.01738244667649269
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.005002564750611782
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0030656657181680202
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.0015384213766083121
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9657436609268188
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.018395479768514633
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.004645471461117268
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.004555493593215942
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.0018468947382643819
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.958463728427887
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.02059849537909031
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.007222309708595276
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.004788953345268965
+        },
+        {
+            "label": "garbage collecting",
+            "score": 0.0018828774336725473
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9611368179321289
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.0164775587618351
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.009428505785763264
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.004373528528958559
+        },
+        {
+            "label": "spray painting",
+            "score": 0.0014930658508092165
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9731020927429199
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.009021781384944916
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.008568991906940937
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0025941133499145508
+        },
+        {
+            "label": "spraying",
+            "score": 0.0013880615588277578
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9620680212974548
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.014159323647618294
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.011317729949951172
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0032455662731081247
+        },
+        {
+            "label": "spraying",
+            "score": 0.002159136813133955
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9627538323402405
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.016321050003170967
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.008876834996044636
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.002979822224006057
+        },
+        {
+            "label": "spraying",
+            "score": 0.0018467444460839033
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9734975695610046
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.01111985370516777
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.00784214772284031
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.001559557975269854
+        },
+        {
+            "label": "spray painting",
+            "score": 0.0013355122646316886
+        }
+    ],
+    [
+        {
+            "label": "blasting sand",
+            "score": 0.9725741744041443
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.013698643073439598
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.007355649955570698
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.001292780740186572
+        },
+        {
+            "label": "spraying",
+            "score": 0.0010738297132775187
+        }
+    ],
+    [
+        {
+            "label": "laying bricks",
+            "score": 0.4308754801750183
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.2852240204811096
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.26599371433258057
+        },
+        {
+            "label": "spraying",
+            "score": 0.005105230491608381
+        },
+        {
+            "label": "jumping into pool",
+            "score": 0.003076287219300866
+        }
+    ],
+    [
+        {
+            "label": "reading newspaper",
+            "score": 0.564508855342865
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.3914335072040558
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.02068817801773548
+        },
+        {
+            "label": "jumping into pool",
+            "score": 0.00693152891471982
+        },
+        {
+            "label": "extinguishing fire",
+            "score": 0.006608827505260706
+        }
+    ],
+    [
+        {
+            "label": "laying bricks",
+            "score": 0.6206403970718384
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.23924441635608673
+        },
+        {
+            "label": "parkour",
+            "score": 0.03092949651181698
+        },
+        {
+            "label": "plastering",
+            "score": 0.028630215674638748
+        },
+        {
+            "label": "jumping into pool",
+            "score": 0.022605272009968758
+        }
+    ],
+    [
+        {
+            "label": "bobsledding",
+            "score": 0.40948614478111267
+        },
+        {
+            "label": "snowmobiling",
+            "score": 0.31369486451148987
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.1059526726603508
+        },
+        {
+            "label": "catching fish",
+            "score": 0.026012105867266655
+        },
+        {
+            "label": "bungee jumping",
+            "score": 0.0156564824283123
+        }
+    ],
+    [
+        {
+            "label": "bobsledding",
+            "score": 0.36021530628204346
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.10722362995147705
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.07821042835712433
+        },
+        {
+            "label": "trapezing",
+            "score": 0.06874377280473709
+        },
+        {
+            "label": "ski jumping",
+            "score": 0.046597566455602646
+        }
+    ],
+    [
+        {
+            "label": "laying bricks",
+            "score": 0.2319173961877823
+        },
+        {
+            "label": "reading newspaper",
+            "score": 0.1600256711244583
+        },
+        {
+            "label": "plastering",
+            "score": 0.1414649337530136
+        },
+        {
+            "label": "bee keeping",
+            "score": 0.07433117926120758
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.069178506731987
+        }
+    ],
+    [
+        {
+            "label": "snowboarding",
+            "score": 0.23324204981327057
+        },
+        {
+            "label": "bobsledding",
+            "score": 0.21139736473560333
+        },
+        {
+            "label": "shoveling snow",
+            "score": 0.16223366558551788
+        },
+        {
+            "label": "ski jumping",
+            "score": 0.1090989038348198
+        },
+        {
+            "label": "snowmobiling",
+            "score": 0.060527902096509933
+        }
+    ],
+    [
+        {
+            "label": "ski jumping",
+            "score": 0.22838956117630005
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.19178830087184906
+        },
+        {
+            "label": "bee keeping",
+            "score": 0.14145952463150024
+        },
+        {
+            "label": "shoveling snow",
+            "score": 0.108812615275383
+        },
+        {
+            "label": "biking through snow",
+            "score": 0.10678565502166748
+        }
+    ],
+    [
+        {
+            "label": "snowboarding",
+            "score": 0.3962574005126953
+        },
+        {
+            "label": "ski jumping",
+            "score": 0.31234875321388245
+        },
+        {
+            "label": "shoveling snow",
+            "score": 0.1278683841228485
+        },
+        {
+            "label": "bee keeping",
+            "score": 0.08624714612960815
+        },
+        {
+            "label": "bobsledding",
+            "score": 0.020322583615779877
+        }
+    ],
+    [
+        {
+            "label": "snowboarding",
+            "score": 0.33157020807266235
+        },
+        {
+            "label": "bobsledding",
+            "score": 0.20056413114070892
+        },
+        {
+            "label": "shoveling snow",
+            "score": 0.14614969491958618
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.08051709830760956
+        },
+        {
+            "label": "bee keeping",
+            "score": 0.07598491758108139
+        }
+    ],
+    [
+        {
+            "label": "bee keeping",
+            "score": 0.5149341821670532
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.1635076105594635
+        },
+        {
+            "label": "shoveling snow",
+            "score": 0.11253628879785538
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.059820372611284256
+        },
+        {
+            "label": "bobsledding",
+            "score": 0.04019560292363167
+        }
+    ],
+    [
+        {
+            "label": "snowboarding",
+            "score": 0.6481025218963623
+        },
+        {
+            "label": "ski jumping",
+            "score": 0.13292716443538666
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.08788245171308517
+        },
+        {
+            "label": "bobsledding",
+            "score": 0.033809076994657516
+        },
+        {
+            "label": "shoveling snow",
+            "score": 0.03340661898255348
+        }
+    ],
+    [
+        {
+            "label": "laying bricks",
+            "score": 0.9310801029205322
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.03170474246144295
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.01802661269903183
+        },
+        {
+            "label": "shoveling snow",
+            "score": 0.005735867191106081
+        },
+        {
+            "label": "bobsledding",
+            "score": 0.004027051851153374
+        }
+    ],
+    [
+        {
+            "label": "bobsledding",
+            "score": 0.568760097026825
+        },
+        {
+            "label": "ski jumping",
+            "score": 0.2588745653629303
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.10729934275150299
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.052737608551979065
+        },
+        {
+            "label": "shoveling snow",
+            "score": 0.0035978963132947683
+        }
+    ],
+    [
+        {
+            "label": "laying bricks",
+            "score": 0.8459214568138123
+        },
+        {
+            "label": "bobsledding",
+            "score": 0.05117873474955559
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.03894932568073273
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.018598144873976707
+        },
+        {
+            "label": "ski jumping",
+            "score": 0.008259876631200314
+        }
+    ],
+    [
+        {
+            "label": "laying bricks",
+            "score": 0.6511910557746887
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.09753088653087616
+        },
+        {
+            "label": "ski jumping",
+            "score": 0.07101839780807495
+        },
+        {
+            "label": "bobsledding",
+            "score": 0.055748555809259415
+        },
+        {
+            "label": "shoveling snow",
+            "score": 0.03186223283410072
+        }
+    ],
+    [
+        {
+            "label": "bobsledding",
+            "score": 0.43752527236938477
+        },
+        {
+            "label": "ski jumping",
+            "score": 0.3455914855003357
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.1872897893190384
+        },
+        {
+            "label": "shoveling snow",
+            "score": 0.010823609307408333
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.004988981876522303
+        }
+    ],
+    [
+        {
+            "label": "bobsledding",
+            "score": 0.8946189284324646
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.041153840720653534
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.036792706698179245
+        },
+        {
+            "label": "ski jumping",
+            "score": 0.013275067321956158
+        },
+        {
+            "label": "parkour",
+            "score": 0.003550084074959159
+        }
+    ],
+    [
+        {
+            "label": "bobsledding",
+            "score": 0.5536437630653381
+        },
+        {
+            "label": "laying bricks",
+            "score": 0.2872583866119385
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.09187959879636765
+        },
+        {
+            "label": "ski jumping",
+            "score": 0.02350611984729767
+        },
+        {
+            "label": "parkour",
+            "score": 0.01622927002608776
+        }
+    ],
+    [
+        {
+            "label": "laying bricks",
+            "score": 0.7921489477157593
+        },
+        {
+            "label": "bobsledding",
+            "score": 0.07529811561107635
+        },
+        {
+            "label": "snowboarding",
+            "score": 0.05372457951307297
+        },
+        {
+            "label": "ski jumping",
+            "score": 0.03414694219827652
+        },
+        {
+            "label": "plastering",
+            "score": 0.01264678593724966
+        }
+    ]
+]

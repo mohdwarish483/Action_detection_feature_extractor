@@ -1,0 +1,310 @@
+[
+    [
+        {
+            "label": "spray painting",
+            "score": 0.4910193085670471
+        },
+        {
+            "label": "spraying",
+            "score": 0.19040220975875854
+        },
+        {
+            "label": "blowing leaves",
+            "score": 0.10776741802692413
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.05170949175953865
+        },
+        {
+            "label": "jogging",
+            "score": 0.03872130811214447
+        }
+    ],
+    [
+        {
+            "label": "jogging",
+            "score": 0.38660645484924316
+        },
+        {
+            "label": "walking the dog",
+            "score": 0.23600120842456818
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.15493139624595642
+        },
+        {
+            "label": "blowing leaves",
+            "score": 0.07039357721805573
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.06596538424491882
+        }
+    ],
+    [
+        {
+            "label": "jogging",
+            "score": 0.32298552989959717
+        },
+        {
+            "label": "walking the dog",
+            "score": 0.27127906680107117
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.20007634162902832
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.06217031553387642
+        },
+        {
+            "label": "blowing leaves",
+            "score": 0.0372326523065567
+        }
+    ],
+    [
+        {
+            "label": "walking the dog",
+            "score": 0.7733190059661865
+        },
+        {
+            "label": "jogging",
+            "score": 0.13016670942306519
+        },
+        {
+            "label": "pushing car",
+            "score": 0.08321592956781387
+        },
+        {
+            "label": "pushing cart",
+            "score": 0.004986193962395191
+        },
+        {
+            "label": "pushing wheelchair",
+            "score": 0.0024649975821375847
+        }
+    ],
+    [
+        {
+            "label": "jogging",
+            "score": 0.9503075480461121
+        },
+        {
+            "label": "walking the dog",
+            "score": 0.022738436236977577
+        },
+        {
+            "label": "pushing car",
+            "score": 0.022092655301094055
+        },
+        {
+            "label": "hopscotch",
+            "score": 0.002068823669105768
+        },
+        {
+            "label": "jumpstyle dancing",
+            "score": 0.001199247082695365
+        }
+    ],
+    [
+        {
+            "label": "jogging",
+            "score": 0.4251786768436432
+        },
+        {
+            "label": "pushing car",
+            "score": 0.4076109528541565
+        },
+        {
+            "label": "walking the dog",
+            "score": 0.1381998360157013
+        },
+        {
+            "label": "hopscotch",
+            "score": 0.01541134249418974
+        },
+        {
+            "label": "pushing cart",
+            "score": 0.0025664465501904488
+        }
+    ],
+    [
+        {
+            "label": "hopscotch",
+            "score": 0.8742840886116028
+        },
+        {
+            "label": "walking the dog",
+            "score": 0.09457029402256012
+        },
+        {
+            "label": "jogging",
+            "score": 0.021316124126315117
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.004118765238672495
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.0012595327571034431
+        }
+    ],
+    [
+        {
+            "label": "riding scooter",
+            "score": 0.4661974012851715
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.18877474963665009
+        },
+        {
+            "label": "walking the dog",
+            "score": 0.10038237273693085
+        },
+        {
+            "label": "jogging",
+            "score": 0.09951554238796234
+        },
+        {
+            "label": "hopscotch",
+            "score": 0.017053654417395592
+        }
+    ],
+    [
+        {
+            "label": "hopscotch",
+            "score": 0.36158910393714905
+        },
+        {
+            "label": "parkour",
+            "score": 0.1743192821741104
+        },
+        {
+            "label": "plastering",
+            "score": 0.08607131242752075
+        },
+        {
+            "label": "playing cricket",
+            "score": 0.05480456352233887
+        },
+        {
+            "label": "blowing leaves",
+            "score": 0.04557988420128822
+        }
+    ],
+    [
+        {
+            "label": "parkour",
+            "score": 0.2834102511405945
+        },
+        {
+            "label": "hopscotch",
+            "score": 0.2076406329870224
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.09368464350700378
+        },
+        {
+            "label": "walking the dog",
+            "score": 0.0935891792178154
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.08979353308677673
+        }
+    ],
+    [
+        {
+            "label": "walking the dog",
+            "score": 0.5451459884643555
+        },
+        {
+            "label": "shoveling snow",
+            "score": 0.1232571080327034
+        },
+        {
+            "label": "hopscotch",
+            "score": 0.07342246174812317
+        },
+        {
+            "label": "pushing car",
+            "score": 0.05555008351802826
+        },
+        {
+            "label": "making snowman",
+            "score": 0.05215900018811226
+        }
+    ],
+    [
+        {
+            "label": "walking the dog",
+            "score": 0.3102762699127197
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.14911799132823944
+        },
+        {
+            "label": "spraying",
+            "score": 0.12410867214202881
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.08655674755573273
+        },
+        {
+            "label": "blowing leaves",
+            "score": 0.07458961755037308
+        }
+    ],
+    [
+        {
+            "label": "blowing leaves",
+            "score": 0.5651561617851257
+        },
+        {
+            "label": "walking the dog",
+            "score": 0.18646277487277985
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.06497811526060104
+        },
+        {
+            "label": "jogging",
+            "score": 0.043934453278779984
+        },
+        {
+            "label": "spraying",
+            "score": 0.03080647811293602
+        }
+    ],
+    [
+        {
+            "label": "blowing leaves",
+            "score": 0.94326251745224
+        },
+        {
+            "label": "walking the dog",
+            "score": 0.00875054020434618
+        },
+        {
+            "label": "pushing car",
+            "score": 0.007892264053225517
+        },
+        {
+            "label": "jogging",
+            "score": 0.006434012670069933
+        },
+        {
+            "label": "jumpstyle dancing",
+            "score": 0.0048564341850578785
+        }
+    ]
+]

@@ -1,0 +1,1234 @@
+[
+    [
+        {
+            "label": "pushing car",
+            "score": 0.932612419128418
+        },
+        {
+            "label": "driving car",
+            "score": 0.043761610984802246
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.016825873404741287
+        },
+        {
+            "label": "texting",
+            "score": 0.00211510481312871
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.0008055019425228238
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.9441115856170654
+        },
+        {
+            "label": "driving car",
+            "score": 0.047078974545001984
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.005420516710728407
+        },
+        {
+            "label": "texting",
+            "score": 0.0009643823723308742
+        },
+        {
+            "label": "changing wheel",
+            "score": 0.00045423791743814945
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.9917511343955994
+        },
+        {
+            "label": "driving car",
+            "score": 0.006762858014553785
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.0005214856355451047
+        },
+        {
+            "label": "changing wheel",
+            "score": 0.00027511094231158495
+        },
+        {
+            "label": "texting",
+            "score": 0.0002035496145254001
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.99512779712677
+        },
+        {
+            "label": "driving car",
+            "score": 0.0028622038662433624
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.0008290900150313973
+        },
+        {
+            "label": "changing wheel",
+            "score": 0.00036927562905475497
+        },
+        {
+            "label": "texting",
+            "score": 0.00015948142390698195
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.9959765076637268
+        },
+        {
+            "label": "driving car",
+            "score": 0.0023573637008666992
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.0010290950303897262
+        },
+        {
+            "label": "changing wheel",
+            "score": 0.00012845439778175205
+        },
+        {
+            "label": "riding scooter",
+            "score": 9.070873056771234e-05
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.9883909225463867
+        },
+        {
+            "label": "driving car",
+            "score": 0.005917686969041824
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.002686336636543274
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.000613248033914715
+        },
+        {
+            "label": "changing wheel",
+            "score": 0.0004135139170102775
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.9218289852142334
+        },
+        {
+            "label": "driving car",
+            "score": 0.03542095422744751
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.014057043939828873
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.006760846357792616
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.006418878212571144
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.7533702850341797
+        },
+        {
+            "label": "driving car",
+            "score": 0.11338980495929718
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.070729099214077
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.01659121736884117
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.013866223394870758
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6915906667709351
+        },
+        {
+            "label": "driving car",
+            "score": 0.18189933896064758
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.09165675193071365
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.006666806526482105
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.0054749357514083385
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.8242570161819458
+        },
+        {
+            "label": "driving car",
+            "score": 0.10296528041362762
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.044371142983436584
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.004524397198110819
+        },
+        {
+            "label": "pumping gas",
+            "score": 0.0038332019466906786
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.9139317870140076
+        },
+        {
+            "label": "driving car",
+            "score": 0.048592157661914825
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.026128271594643593
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.001798442448489368
+        },
+        {
+            "label": "texting",
+            "score": 0.0015229217242449522
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.9947285056114197
+        },
+        {
+            "label": "jogging",
+            "score": 0.0013789727818220854
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.0010094603057950735
+        },
+        {
+            "label": "driving car",
+            "score": 0.0008654767298139632
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.0004394639399833977
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.9868107438087463
+        },
+        {
+            "label": "driving car",
+            "score": 0.005323088727891445
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.002714246977120638
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.001308959093876183
+        },
+        {
+            "label": "jogging",
+            "score": 0.0008233156986534595
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.7325071096420288
+        },
+        {
+            "label": "driving car",
+            "score": 0.1289444863796234
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.09313679486513138
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.009460227563977242
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.005528325214982033
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.650485634803772
+        },
+        {
+            "label": "driving car",
+            "score": 0.14835046231746674
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.12946058809757233
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.0180634967982769
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.014134621247649193
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6058231592178345
+        },
+        {
+            "label": "driving car",
+            "score": 0.28157249093055725
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.0720120295882225
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.007924333214759827
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.006672041956335306
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.5400208234786987
+        },
+        {
+            "label": "driving car",
+            "score": 0.21636821329593658
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.136617049574852
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.05844111740589142
+        },
+        {
+            "label": "parkour",
+            "score": 0.012749828398227692
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.5611746907234192
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.20126406848430634
+        },
+        {
+            "label": "driving car",
+            "score": 0.1754942387342453
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.022513961419463158
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.006989421788603067
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6898771524429321
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.12867103517055511
+        },
+        {
+            "label": "driving car",
+            "score": 0.12315156310796738
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.009561029262840748
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.009113840758800507
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.8007577061653137
+        },
+        {
+            "label": "driving car",
+            "score": 0.12692683935165405
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.04893208667635918
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.0028676465153694153
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.002610070863738656
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6991432309150696
+        },
+        {
+            "label": "driving car",
+            "score": 0.18636929988861084
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.08981025218963623
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.005159457214176655
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0027716371696442366
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.7693616151809692
+        },
+        {
+            "label": "driving car",
+            "score": 0.15458257496356964
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.05946217477321625
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.0024195141158998013
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0024075934197753668
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.8782896995544434
+        },
+        {
+            "label": "driving car",
+            "score": 0.09121430665254593
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.02450316958129406
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0012757065705955029
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.0007548119174316525
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.8618510961532593
+        },
+        {
+            "label": "driving car",
+            "score": 0.0726844072341919
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.047699928283691406
+        },
+        {
+            "label": "unloading truck",
+            "score": 0.0027831122279167175
+        },
+        {
+            "label": "playing paintball",
+            "score": 0.0026234183460474014
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.7403646111488342
+        },
+        {
+            "label": "driving car",
+            "score": 0.12566210329532623
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.05889669805765152
+        },
+        {
+            "label": "playing paintball",
+            "score": 0.009559672325849533
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.008491212502121925
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6904503107070923
+        },
+        {
+            "label": "driving car",
+            "score": 0.11273183673620224
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.09582658112049103
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.013258395716547966
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.01318201795220375
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.3707079589366913
+        },
+        {
+            "label": "driving car",
+            "score": 0.33877792954444885
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.22480179369449615
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.010995062999427319
+        },
+        {
+            "label": "texting",
+            "score": 0.008494138717651367
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6421394348144531
+        },
+        {
+            "label": "driving car",
+            "score": 0.25548046827316284
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.07542531192302704
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.004870476201176643
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.0034736162051558495
+        }
+    ],
+    [
+        {
+            "label": "motorcycling",
+            "score": 0.31182950735092163
+        },
+        {
+            "label": "pushing car",
+            "score": 0.31013163924217224
+        },
+        {
+            "label": "driving car",
+            "score": 0.23410765826702118
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.038393761962652206
+        },
+        {
+            "label": "playing paintball",
+            "score": 0.01866537518799305
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.4749571681022644
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.22242990136146545
+        },
+        {
+            "label": "driving car",
+            "score": 0.09850171953439713
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.035200636833906174
+        },
+        {
+            "label": "playing paintball",
+            "score": 0.03165286406874657
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.521172821521759
+        },
+        {
+            "label": "driving car",
+            "score": 0.234842449426651
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.10118081420660019
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.02882264368236065
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.022353913635015488
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6672185659408569
+        },
+        {
+            "label": "driving car",
+            "score": 0.20435674488544464
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.058892473578453064
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.0164725910872221
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.010671073570847511
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.7306309342384338
+        },
+        {
+            "label": "driving car",
+            "score": 0.16443735361099243
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.04768498241901398
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.015502041205763817
+        },
+        {
+            "label": "riding a bike",
+            "score": 0.0064321462996304035
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6873975396156311
+        },
+        {
+            "label": "driving car",
+            "score": 0.16053557395935059
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.06895284354686737
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.019807973876595497
+        },
+        {
+            "label": "riding a bike",
+            "score": 0.010776497423648834
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.5707018375396729
+        },
+        {
+            "label": "driving car",
+            "score": 0.23440729081630707
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.1091075912117958
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.01803382858633995
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.011604350060224533
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.508338451385498
+        },
+        {
+            "label": "driving car",
+            "score": 0.2883498966693878
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.11598319560289383
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.01779761165380478
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.01145047228783369
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.5299066305160522
+        },
+        {
+            "label": "driving car",
+            "score": 0.3010432720184326
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.09615810960531235
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.017595428973436356
+        },
+        {
+            "label": "riding a bike",
+            "score": 0.009645343758165836
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.5496538877487183
+        },
+        {
+            "label": "driving car",
+            "score": 0.2727689743041992
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.09311508387327194
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.02062353305518627
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.011898401193320751
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6169723868370056
+        },
+        {
+            "label": "driving car",
+            "score": 0.23348189890384674
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.077934131026268
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.015325753018260002
+        },
+        {
+            "label": "riding a bike",
+            "score": 0.008326922543346882
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.5838245153427124
+        },
+        {
+            "label": "driving car",
+            "score": 0.24146993458271027
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.08967560529708862
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.015878835693001747
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.01170926820486784
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.5752158164978027
+        },
+        {
+            "label": "driving car",
+            "score": 0.2152973711490631
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.10942083597183228
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.018732037395238876
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.01364120189100504
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.41264116764068604
+        },
+        {
+            "label": "driving car",
+            "score": 0.24019113183021545
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.18228325247764587
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.03311574086546898
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.026708297431468964
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.5375625491142273
+        },
+        {
+            "label": "driving car",
+            "score": 0.20888645946979523
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.12329179793596268
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.02987189218401909
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.01903389021754265
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.5074598789215088
+        },
+        {
+            "label": "driving car",
+            "score": 0.2136407345533371
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.12411858141422272
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.039330366998910904
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.01726359874010086
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.4893227815628052
+        },
+        {
+            "label": "driving car",
+            "score": 0.23611970245838165
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.13642238080501556
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.0349971279501915
+        },
+        {
+            "label": "riding a bike",
+            "score": 0.016122177243232727
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6220741271972656
+        },
+        {
+            "label": "driving car",
+            "score": 0.1712074875831604
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.08018221706151962
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.02606687881052494
+        },
+        {
+            "label": "riding a bike",
+            "score": 0.013171795755624771
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6512666344642639
+        },
+        {
+            "label": "driving car",
+            "score": 0.18825256824493408
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.05878927558660507
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.019916975870728493
+        },
+        {
+            "label": "riding a bike",
+            "score": 0.011129597201943398
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6890416741371155
+        },
+        {
+            "label": "driving car",
+            "score": 0.17921972274780273
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.05203831195831299
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.017678940668702126
+        },
+        {
+            "label": "riding a bike",
+            "score": 0.008845478296279907
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6193573474884033
+        },
+        {
+            "label": "driving car",
+            "score": 0.19499094784259796
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.06936939805746078
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.02300015650689602
+        },
+        {
+            "label": "riding a bike",
+            "score": 0.013086422346532345
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.5530830025672913
+        },
+        {
+            "label": "driving car",
+            "score": 0.21283632516860962
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.08481131494045258
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.02239178866147995
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.020116452127695084
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6435970067977905
+        },
+        {
+            "label": "driving car",
+            "score": 0.1840141862630844
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.06991767883300781
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.01956751011312008
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.013310488313436508
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.5788357257843018
+        },
+        {
+            "label": "driving car",
+            "score": 0.20142625272274017
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.0881691500544548
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.02710554748773575
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.01817508228123188
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.5318014621734619
+        },
+        {
+            "label": "driving car",
+            "score": 0.2087189257144928
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.11229268461465836
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.03550555184483528
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.022027742117643356
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.662935197353363
+        },
+        {
+            "label": "driving car",
+            "score": 0.19691531360149384
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.06641510874032974
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.020516112446784973
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.010083799250423908
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.6396182179450989
+        },
+        {
+            "label": "driving car",
+            "score": 0.15430286526679993
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.08618392050266266
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.02891136147081852
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.017828479409217834
+        }
+    ],
+    [
+        {
+            "label": "pushing car",
+            "score": 0.60744708776474
+        },
+        {
+            "label": "driving car",
+            "score": 0.17094971239566803
+        },
+        {
+            "label": "motorcycling",
+            "score": 0.09042087942361832
+        },
+        {
+            "label": "riding scooter",
+            "score": 0.02847892977297306
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.023673871532082558
+        }
+    ]
+]

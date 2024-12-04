@@ -1,0 +1,2906 @@
+[
+    [
+        {
+            "label": "kissing",
+            "score": 0.6267229914665222
+        },
+        {
+            "label": "hugging",
+            "score": 0.2091349959373474
+        },
+        {
+            "label": "shaking hands",
+            "score": 0.08530005812644958
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.03822597116231918
+        },
+        {
+            "label": "waiting in line",
+            "score": 0.013094405643641949
+        }
+    ],
+    [
+        {
+            "label": "hugging",
+            "score": 0.27556008100509644
+        },
+        {
+            "label": "dancing macarena",
+            "score": 0.12422112375497818
+        },
+        {
+            "label": "dancing charleston",
+            "score": 0.10893993079662323
+        },
+        {
+            "label": "shaking hands",
+            "score": 0.08598204702138901
+        },
+        {
+            "label": "kissing",
+            "score": 0.08587419986724854
+        }
+    ],
+    [
+        {
+            "label": "shaking hands",
+            "score": 0.5505144596099854
+        },
+        {
+            "label": "slapping",
+            "score": 0.09463668614625931
+        },
+        {
+            "label": "hugging",
+            "score": 0.07264112681150436
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.05371562018990517
+        },
+        {
+            "label": "tai chi",
+            "score": 0.038960833102464676
+        }
+    ],
+    [
+        {
+            "label": "shaking hands",
+            "score": 0.27229344844818115
+        },
+        {
+            "label": "hugging",
+            "score": 0.2159366011619568
+        },
+        {
+            "label": "dancing macarena",
+            "score": 0.06008908525109291
+        },
+        {
+            "label": "robot dancing",
+            "score": 0.04423275589942932
+        },
+        {
+            "label": "kissing",
+            "score": 0.04408727213740349
+        }
+    ],
+    [
+        {
+            "label": "shaking hands",
+            "score": 0.21275603771209717
+        },
+        {
+            "label": "hugging",
+            "score": 0.1679617166519165
+        },
+        {
+            "label": "tai chi",
+            "score": 0.1450617015361786
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.10701122134923935
+        },
+        {
+            "label": "kissing",
+            "score": 0.08461083471775055
+        }
+    ],
+    [
+        {
+            "label": "kissing",
+            "score": 0.16804595291614532
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.14258399605751038
+        },
+        {
+            "label": "robot dancing",
+            "score": 0.12226045876741409
+        },
+        {
+            "label": "shaking hands",
+            "score": 0.06666040420532227
+        },
+        {
+            "label": "tai chi",
+            "score": 0.040403999388217926
+        }
+    ],
+    [
+        {
+            "label": "robot dancing",
+            "score": 0.1849803924560547
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.07996577024459839
+        },
+        {
+            "label": "tai chi",
+            "score": 0.07020200043916702
+        },
+        {
+            "label": "shaking hands",
+            "score": 0.05097484216094017
+        },
+        {
+            "label": "dancing macarena",
+            "score": 0.03105693683028221
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.2377152293920517
+        },
+        {
+            "label": "robot dancing",
+            "score": 0.16258114576339722
+        },
+        {
+            "label": "shaking hands",
+            "score": 0.10150638967752457
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.07774971425533295
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.0575808510184288
+        }
+    ],
+    [
+        {
+            "label": "giving or receiving award",
+            "score": 0.19371645152568817
+        },
+        {
+            "label": "shaking hands",
+            "score": 0.1586921215057373
+        },
+        {
+            "label": "kissing",
+            "score": 0.07585911452770233
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.06938757747411728
+        },
+        {
+            "label": "slapping",
+            "score": 0.05520515888929367
+        }
+    ],
+    [
+        {
+            "label": "shaking hands",
+            "score": 0.10837027430534363
+        },
+        {
+            "label": "washing hands",
+            "score": 0.09665355086326599
+        },
+        {
+            "label": "plastering",
+            "score": 0.08692462742328644
+        },
+        {
+            "label": "spray painting",
+            "score": 0.07479149848222733
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.05566135048866272
+        }
+    ],
+    [
+        {
+            "label": "shaking hands",
+            "score": 0.2655855119228363
+        },
+        {
+            "label": "rock scissors paper",
+            "score": 0.21402497589588165
+        },
+        {
+            "label": "clapping",
+            "score": 0.08728163689374924
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.0608142614364624
+        },
+        {
+            "label": "tai chi",
+            "score": 0.05318578705191612
+        }
+    ],
+    [
+        {
+            "label": "clapping",
+            "score": 0.31639978289604187
+        },
+        {
+            "label": "shaking hands",
+            "score": 0.2734188139438629
+        },
+        {
+            "label": "robot dancing",
+            "score": 0.11612510681152344
+        },
+        {
+            "label": "plastering",
+            "score": 0.06084657087922096
+        },
+        {
+            "label": "rock scissors paper",
+            "score": 0.058579277247190475
+        }
+    ],
+    [
+        {
+            "label": "cleaning windows",
+            "score": 0.2325265109539032
+        },
+        {
+            "label": "shaking hands",
+            "score": 0.13616949319839478
+        },
+        {
+            "label": "plastering",
+            "score": 0.1192062571644783
+        },
+        {
+            "label": "rock scissors paper",
+            "score": 0.11059074103832245
+        },
+        {
+            "label": "slapping",
+            "score": 0.06530407071113586
+        }
+    ],
+    [
+        {
+            "label": "plastering",
+            "score": 0.46032974123954773
+        },
+        {
+            "label": "shaking hands",
+            "score": 0.171268031001091
+        },
+        {
+            "label": "slapping",
+            "score": 0.07865788042545319
+        },
+        {
+            "label": "headbutting",
+            "score": 0.03434267267584801
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.03384101390838623
+        }
+    ],
+    [
+        {
+            "label": "playing basketball",
+            "score": 0.19321615993976593
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.08395124226808548
+        },
+        {
+            "label": "shaking hands",
+            "score": 0.08147969096899033
+        },
+        {
+            "label": "dunking basketball",
+            "score": 0.050760507583618164
+        },
+        {
+            "label": "tai chi",
+            "score": 0.04746958613395691
+        }
+    ],
+    [
+        {
+            "label": "slapping",
+            "score": 0.19225944578647614
+        },
+        {
+            "label": "plastering",
+            "score": 0.17463335394859314
+        },
+        {
+            "label": "making bed",
+            "score": 0.15295709669589996
+        },
+        {
+            "label": "shaking hands",
+            "score": 0.13048076629638672
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.05114294961094856
+        }
+    ],
+    [
+        {
+            "label": "robot dancing",
+            "score": 0.2151188999414444
+        },
+        {
+            "label": "slapping",
+            "score": 0.07456278800964355
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.05570383369922638
+        },
+        {
+            "label": "headbutting",
+            "score": 0.053337473422288895
+        },
+        {
+            "label": "making bed",
+            "score": 0.04411310330033302
+        }
+    ],
+    [
+        {
+            "label": "yoga",
+            "score": 0.8768749833106995
+        },
+        {
+            "label": "stretching leg",
+            "score": 0.03745265305042267
+        },
+        {
+            "label": "stretching arm",
+            "score": 0.015440691262483597
+        },
+        {
+            "label": "bending back",
+            "score": 0.006131219677627087
+        },
+        {
+            "label": "massaging feet",
+            "score": 0.005261600483208895
+        }
+    ],
+    [
+        {
+            "label": "yoga",
+            "score": 0.15348803997039795
+        },
+        {
+            "label": "ripping paper",
+            "score": 0.1016790047287941
+        },
+        {
+            "label": "reading book",
+            "score": 0.07537652552127838
+        },
+        {
+            "label": "arranging flowers",
+            "score": 0.05739513412117958
+        },
+        {
+            "label": "opening present",
+            "score": 0.046670638024806976
+        }
+    ],
+    [
+        {
+            "label": "playing ukulele",
+            "score": 0.2651127874851227
+        },
+        {
+            "label": "eating burger",
+            "score": 0.12342924624681473
+        },
+        {
+            "label": "eating ice cream",
+            "score": 0.10634534806013107
+        },
+        {
+            "label": "tasting food",
+            "score": 0.1003473699092865
+        },
+        {
+            "label": "eating cake",
+            "score": 0.09643816202878952
+        }
+    ],
+    [
+        {
+            "label": "making pizza",
+            "score": 0.07737061381340027
+        },
+        {
+            "label": "eating burger",
+            "score": 0.043038126081228256
+        },
+        {
+            "label": "reading book",
+            "score": 0.04163767024874687
+        },
+        {
+            "label": "opening present",
+            "score": 0.039122115820646286
+        },
+        {
+            "label": "playing harmonica",
+            "score": 0.03747572749853134
+        }
+    ],
+    [
+        {
+            "label": "giving or receiving award",
+            "score": 0.47804850339889526
+        },
+        {
+            "label": "auctioning",
+            "score": 0.12749388813972473
+        },
+        {
+            "label": "tai chi",
+            "score": 0.04790182784199715
+        },
+        {
+            "label": "robot dancing",
+            "score": 0.024190234020352364
+        },
+        {
+            "label": "singing",
+            "score": 0.018313521519303322
+        }
+    ],
+    [
+        {
+            "label": "tai chi",
+            "score": 0.0967164859175682
+        },
+        {
+            "label": "auctioning",
+            "score": 0.07837880402803421
+        },
+        {
+            "label": "blowing out candles",
+            "score": 0.06460322439670563
+        },
+        {
+            "label": "dining",
+            "score": 0.059153128415346146
+        },
+        {
+            "label": "rock scissors paper",
+            "score": 0.04458281025290489
+        }
+    ],
+    [
+        {
+            "label": "air drumming",
+            "score": 0.1678219735622406
+        },
+        {
+            "label": "rock scissors paper",
+            "score": 0.07377884536981583
+        },
+        {
+            "label": "dancing macarena",
+            "score": 0.07281140983104706
+        },
+        {
+            "label": "sign language interpreting",
+            "score": 0.06272194534540176
+        },
+        {
+            "label": "robot dancing",
+            "score": 0.046957146376371384
+        }
+    ],
+    [
+        {
+            "label": "catching or throwing baseball",
+            "score": 0.48817718029022217
+        },
+        {
+            "label": "shuffling cards",
+            "score": 0.24133265018463135
+        },
+        {
+            "label": "playing poker",
+            "score": 0.10418831557035446
+        },
+        {
+            "label": "playing cards",
+            "score": 0.02522401139140129
+        },
+        {
+            "label": "catching or throwing softball",
+            "score": 0.02014312893152237
+        }
+    ],
+    [
+        {
+            "label": "tap dancing",
+            "score": 0.09475716948509216
+        },
+        {
+            "label": "dancing ballet",
+            "score": 0.08784976601600647
+        },
+        {
+            "label": "catching or throwing baseball",
+            "score": 0.054317716509103775
+        },
+        {
+            "label": "dancing macarena",
+            "score": 0.049433574080467224
+        },
+        {
+            "label": "dancing gangnam style",
+            "score": 0.045979488641023636
+        }
+    ],
+    [
+        {
+            "label": "rock scissors paper",
+            "score": 0.12121599167585373
+        },
+        {
+            "label": "breakdancing",
+            "score": 0.10404659062623978
+        },
+        {
+            "label": "air drumming",
+            "score": 0.06205616146326065
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.06125298887491226
+        },
+        {
+            "label": "robot dancing",
+            "score": 0.05185839533805847
+        }
+    ],
+    [
+        {
+            "label": "baking cookies",
+            "score": 0.21514247357845306
+        },
+        {
+            "label": "playing monopoly",
+            "score": 0.16147947311401367
+        },
+        {
+            "label": "making pizza",
+            "score": 0.1388375461101532
+        },
+        {
+            "label": "counting money",
+            "score": 0.081588976085186
+        },
+        {
+            "label": "playing poker",
+            "score": 0.07367498427629471
+        }
+    ],
+    [
+        {
+            "label": "blowing out candles",
+            "score": 0.10961294174194336
+        },
+        {
+            "label": "playing monopoly",
+            "score": 0.1048283725976944
+        },
+        {
+            "label": "making pizza",
+            "score": 0.08033163100481033
+        },
+        {
+            "label": "baking cookies",
+            "score": 0.060408901423215866
+        },
+        {
+            "label": "tasting food",
+            "score": 0.04706384241580963
+        }
+    ],
+    [
+        {
+            "label": "air drumming",
+            "score": 0.10781063884496689
+        },
+        {
+            "label": "rock scissors paper",
+            "score": 0.0729968324303627
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.06352301687002182
+        },
+        {
+            "label": "blowing out candles",
+            "score": 0.0506221242249012
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.05044814199209213
+        }
+    ],
+    [
+        {
+            "label": "making pizza",
+            "score": 0.06994424760341644
+        },
+        {
+            "label": "shuffling cards",
+            "score": 0.06688893586397171
+        },
+        {
+            "label": "baking cookies",
+            "score": 0.06379812210798264
+        },
+        {
+            "label": "catching or throwing baseball",
+            "score": 0.057092249393463135
+        },
+        {
+            "label": "catching or throwing softball",
+            "score": 0.052840713411569595
+        }
+    ],
+    [
+        {
+            "label": "tossing coin",
+            "score": 0.2390093058347702
+        },
+        {
+            "label": "catching or throwing baseball",
+            "score": 0.23703376948833466
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.07680634409189224
+        },
+        {
+            "label": "catching or throwing softball",
+            "score": 0.07494799047708511
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.06274238228797913
+        }
+    ],
+    [
+        {
+            "label": "playing ukulele",
+            "score": 0.19641730189323425
+        },
+        {
+            "label": "tying knot (not on a tie)",
+            "score": 0.08071604371070862
+        },
+        {
+            "label": "tasting food",
+            "score": 0.0693623423576355
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.061253223568201065
+        },
+        {
+            "label": "shuffling cards",
+            "score": 0.04983074963092804
+        }
+    ],
+    [
+        {
+            "label": "shuffling cards",
+            "score": 0.5920969247817993
+        },
+        {
+            "label": "playing recorder",
+            "score": 0.2029971480369568
+        },
+        {
+            "label": "catching or throwing baseball",
+            "score": 0.09909891337156296
+        },
+        {
+            "label": "passing American football (not in game)",
+            "score": 0.022148827090859413
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.012448287568986416
+        }
+    ],
+    [
+        {
+            "label": "shuffling cards",
+            "score": 0.29963573813438416
+        },
+        {
+            "label": "catching or throwing baseball",
+            "score": 0.23404747247695923
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.13889287412166595
+        },
+        {
+            "label": "passing American football (not in game)",
+            "score": 0.060919467359781265
+        },
+        {
+            "label": "playing recorder",
+            "score": 0.03450985625386238
+        }
+    ],
+    [
+        {
+            "label": "playing recorder",
+            "score": 0.4706752598285675
+        },
+        {
+            "label": "playing ukulele",
+            "score": 0.07753905653953552
+        },
+        {
+            "label": "holding snake",
+            "score": 0.06147852540016174
+        },
+        {
+            "label": "texting",
+            "score": 0.05990844964981079
+        },
+        {
+            "label": "catching or throwing baseball",
+            "score": 0.05812310054898262
+        }
+    ],
+    [
+        {
+            "label": "playing recorder",
+            "score": 0.7734861969947815
+        },
+        {
+            "label": "holding snake",
+            "score": 0.08006726950407028
+        },
+        {
+            "label": "texting",
+            "score": 0.016990872099995613
+        },
+        {
+            "label": "cutting nails",
+            "score": 0.010857484303414822
+        },
+        {
+            "label": "baking cookies",
+            "score": 0.00953232403844595
+        }
+    ],
+    [
+        {
+            "label": "tossing coin",
+            "score": 0.1770714372396469
+        },
+        {
+            "label": "baking cookies",
+            "score": 0.07468096911907196
+        },
+        {
+            "label": "passing American football (not in game)",
+            "score": 0.06793641299009323
+        },
+        {
+            "label": "shuffling cards",
+            "score": 0.05554581061005592
+        },
+        {
+            "label": "holding snake",
+            "score": 0.052443619817495346
+        }
+    ],
+    [
+        {
+            "label": "tossing coin",
+            "score": 0.2577984929084778
+        },
+        {
+            "label": "making pizza",
+            "score": 0.07743508368730545
+        },
+        {
+            "label": "washing hands",
+            "score": 0.0461888462305069
+        },
+        {
+            "label": "rock scissors paper",
+            "score": 0.03286975994706154
+        },
+        {
+            "label": "baking cookies",
+            "score": 0.03273037448525429
+        }
+    ],
+    [
+        {
+            "label": "playing ukulele",
+            "score": 0.9214865565299988
+        },
+        {
+            "label": "holding snake",
+            "score": 0.0385652557015419
+        },
+        {
+            "label": "tapping guitar",
+            "score": 0.010615311563014984
+        },
+        {
+            "label": "sharpening pencil",
+            "score": 0.004161823075264692
+        },
+        {
+            "label": "cutting nails",
+            "score": 0.0031043437775224447
+        }
+    ],
+    [
+        {
+            "label": "rock scissors paper",
+            "score": 0.4143202602863312
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.181167870759964
+        },
+        {
+            "label": "baking cookies",
+            "score": 0.07124900072813034
+        },
+        {
+            "label": "sharpening pencil",
+            "score": 0.03987700492143631
+        },
+        {
+            "label": "tapping guitar",
+            "score": 0.025888225063681602
+        }
+    ],
+    [
+        {
+            "label": "tapping guitar",
+            "score": 0.45448896288871765
+        },
+        {
+            "label": "playing ukulele",
+            "score": 0.15858374536037445
+        },
+        {
+            "label": "baking cookies",
+            "score": 0.10159751027822495
+        },
+        {
+            "label": "making pizza",
+            "score": 0.032442301511764526
+        },
+        {
+            "label": "rock scissors paper",
+            "score": 0.025651348754763603
+        }
+    ],
+    [
+        {
+            "label": "making pizza",
+            "score": 0.20487642288208008
+        },
+        {
+            "label": "baking cookies",
+            "score": 0.1788114607334137
+        },
+        {
+            "label": "rock scissors paper",
+            "score": 0.08001875132322311
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.07229326665401459
+        },
+        {
+            "label": "blowing glass",
+            "score": 0.032477207481861115
+        }
+    ],
+    [
+        {
+            "label": "baking cookies",
+            "score": 0.13425950706005096
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.11895555257797241
+        },
+        {
+            "label": "making pizza",
+            "score": 0.09233713150024414
+        },
+        {
+            "label": "dying hair",
+            "score": 0.07678157836198807
+        },
+        {
+            "label": "rock scissors paper",
+            "score": 0.040995169430971146
+        }
+    ],
+    [
+        {
+            "label": "rock scissors paper",
+            "score": 0.21787519752979279
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.14717337489128113
+        },
+        {
+            "label": "tap dancing",
+            "score": 0.08545437455177307
+        },
+        {
+            "label": "sign language interpreting",
+            "score": 0.051789071410894394
+        },
+        {
+            "label": "robot dancing",
+            "score": 0.03637301176786423
+        }
+    ],
+    [
+        {
+            "label": "wrestling",
+            "score": 0.11018287390470505
+        },
+        {
+            "label": "hopscotch",
+            "score": 0.09835240244865417
+        },
+        {
+            "label": "pushing car",
+            "score": 0.07423335313796997
+        },
+        {
+            "label": "dancing ballet",
+            "score": 0.043098412454128265
+        },
+        {
+            "label": "shot put",
+            "score": 0.03770274296402931
+        }
+    ],
+    [
+        {
+            "label": "tap dancing",
+            "score": 0.15794475376605988
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.061131805181503296
+        },
+        {
+            "label": "clapping",
+            "score": 0.032908469438552856
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.029690217226743698
+        },
+        {
+            "label": "dancing ballet",
+            "score": 0.02855205349624157
+        }
+    ],
+    [
+        {
+            "label": "gargling",
+            "score": 0.36656132340431213
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.32662609219551086
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.027924545109272003
+        },
+        {
+            "label": "cheerleading",
+            "score": 0.020681917667388916
+        },
+        {
+            "label": "shooting basketball",
+            "score": 0.01952393539249897
+        }
+    ],
+    [
+        {
+            "label": "eating hotdog",
+            "score": 0.5116304159164429
+        },
+        {
+            "label": "eating chips",
+            "score": 0.09053526818752289
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.08753114938735962
+        },
+        {
+            "label": "flipping pancake",
+            "score": 0.0677260309457779
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.05175737291574478
+        }
+    ],
+    [
+        {
+            "label": "eating hotdog",
+            "score": 0.26845207810401917
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.16915856301784515
+        },
+        {
+            "label": "gargling",
+            "score": 0.16581937670707703
+        },
+        {
+            "label": "eating chips",
+            "score": 0.14229631423950195
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.0395490936934948
+        }
+    ],
+    [
+        {
+            "label": "eating chips",
+            "score": 0.5702385902404785
+        },
+        {
+            "label": "eating ice cream",
+            "score": 0.19393566250801086
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.149118110537529
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.07963819056749344
+        },
+        {
+            "label": "tasting food",
+            "score": 0.002723658224567771
+        }
+    ],
+    [
+        {
+            "label": "eating chips",
+            "score": 0.7340936064720154
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.0736846923828125
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.0718378946185112
+        },
+        {
+            "label": "gargling",
+            "score": 0.023654157295823097
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.013024820014834404
+        }
+    ],
+    [
+        {
+            "label": "gargling",
+            "score": 0.2015613615512848
+        },
+        {
+            "label": "slapping",
+            "score": 0.08223468065261841
+        },
+        {
+            "label": "juggling balls",
+            "score": 0.07480044662952423
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.0649397075176239
+        },
+        {
+            "label": "air drumming",
+            "score": 0.051417164504528046
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.20132029056549072
+        },
+        {
+            "label": "dodgeball",
+            "score": 0.12019762396812439
+        },
+        {
+            "label": "slapping",
+            "score": 0.11365222185850143
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.036553800106048584
+        },
+        {
+            "label": "headbutting",
+            "score": 0.033826690167188644
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.17554594576358795
+        },
+        {
+            "label": "slapping",
+            "score": 0.08334381133317947
+        },
+        {
+            "label": "finger snapping",
+            "score": 0.06854141503572464
+        },
+        {
+            "label": "air drumming",
+            "score": 0.04848058521747589
+        },
+        {
+            "label": "robot dancing",
+            "score": 0.043853580951690674
+        }
+    ],
+    [
+        {
+            "label": "slapping",
+            "score": 0.10157187283039093
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.08745118975639343
+        },
+        {
+            "label": "smoking",
+            "score": 0.07080203294754028
+        },
+        {
+            "label": "eating chips",
+            "score": 0.0646260604262352
+        },
+        {
+            "label": "gargling",
+            "score": 0.064400814473629
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.10831523686647415
+        },
+        {
+            "label": "air drumming",
+            "score": 0.06178927421569824
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.04985754191875458
+        },
+        {
+            "label": "slapping",
+            "score": 0.037802666425704956
+        },
+        {
+            "label": "robot dancing",
+            "score": 0.028999047353863716
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.2745157778263092
+        },
+        {
+            "label": "air drumming",
+            "score": 0.1025652140378952
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.09550519287586212
+        },
+        {
+            "label": "slapping",
+            "score": 0.07796230167150497
+        },
+        {
+            "label": "dodgeball",
+            "score": 0.05664037540555
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.12663039565086365
+        },
+        {
+            "label": "dodgeball",
+            "score": 0.06546761095523834
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.05496250092983246
+        },
+        {
+            "label": "slapping",
+            "score": 0.050528790801763535
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.04791624844074249
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.12593145668506622
+        },
+        {
+            "label": "air drumming",
+            "score": 0.06306019425392151
+        },
+        {
+            "label": "slapping",
+            "score": 0.0597691647708416
+        },
+        {
+            "label": "playing squash or racquetball",
+            "score": 0.058035630732774734
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.05767308175563812
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.12849020957946777
+        },
+        {
+            "label": "slapping",
+            "score": 0.05973164737224579
+        },
+        {
+            "label": "clean and jerk",
+            "score": 0.044676925987005234
+        },
+        {
+            "label": "air drumming",
+            "score": 0.04152192920446396
+        },
+        {
+            "label": "headbutting",
+            "score": 0.040404122322797775
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.25719189643859863
+        },
+        {
+            "label": "dodgeball",
+            "score": 0.06543324142694473
+        },
+        {
+            "label": "slapping",
+            "score": 0.06343607604503632
+        },
+        {
+            "label": "air drumming",
+            "score": 0.039477989077568054
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.03393719345331192
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.28962454199790955
+        },
+        {
+            "label": "playing squash or racquetball",
+            "score": 0.1771833747625351
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.08034081757068634
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.04173537343740463
+        },
+        {
+            "label": "dodgeball",
+            "score": 0.036103785037994385
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.3327436149120331
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.07157466560602188
+        },
+        {
+            "label": "slapping",
+            "score": 0.04636010527610779
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.042226433753967285
+        },
+        {
+            "label": "playing squash or racquetball",
+            "score": 0.03467011824250221
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.30147069692611694
+        },
+        {
+            "label": "playing squash or racquetball",
+            "score": 0.10860539227724075
+        },
+        {
+            "label": "clean and jerk",
+            "score": 0.06920943409204483
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.05475616455078125
+        },
+        {
+            "label": "dodgeball",
+            "score": 0.047027502208948135
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.11950060725212097
+        },
+        {
+            "label": "clean and jerk",
+            "score": 0.06609553098678589
+        },
+        {
+            "label": "playing squash or racquetball",
+            "score": 0.06007349491119385
+        },
+        {
+            "label": "slapping",
+            "score": 0.04545936360955238
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.04487581178545952
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.09231475740671158
+        },
+        {
+            "label": "dodgeball",
+            "score": 0.08626977354288101
+        },
+        {
+            "label": "clean and jerk",
+            "score": 0.0685296580195427
+        },
+        {
+            "label": "playing squash or racquetball",
+            "score": 0.057541683316230774
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.04951276630163193
+        }
+    ],
+    [
+        {
+            "label": "playing squash or racquetball",
+            "score": 0.1621701866388321
+        },
+        {
+            "label": "shaving head",
+            "score": 0.1286323517560959
+        },
+        {
+            "label": "dodgeball",
+            "score": 0.06657812744379044
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.04905134066939354
+        },
+        {
+            "label": "clean and jerk",
+            "score": 0.04865780472755432
+        }
+    ],
+    [
+        {
+            "label": "clean and jerk",
+            "score": 0.1757848560810089
+        },
+        {
+            "label": "shaving head",
+            "score": 0.16018067300319672
+        },
+        {
+            "label": "snatch weight lifting",
+            "score": 0.08884172141551971
+        },
+        {
+            "label": "vault",
+            "score": 0.0758647546172142
+        },
+        {
+            "label": "dodgeball",
+            "score": 0.04901733621954918
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.18186357617378235
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.07089890539646149
+        },
+        {
+            "label": "playing squash or racquetball",
+            "score": 0.05904608964920044
+        },
+        {
+            "label": "dodgeball",
+            "score": 0.05034871771931648
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.03958762437105179
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.10854295641183853
+        },
+        {
+            "label": "dodgeball",
+            "score": 0.0937720313668251
+        },
+        {
+            "label": "playing squash or racquetball",
+            "score": 0.050086136907339096
+        },
+        {
+            "label": "shooting basketball",
+            "score": 0.0459107831120491
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.045501988381147385
+        }
+    ],
+    [
+        {
+            "label": "slapping",
+            "score": 0.06844805926084518
+        },
+        {
+            "label": "gargling",
+            "score": 0.06473150849342346
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.05431560426950455
+        },
+        {
+            "label": "headbutting",
+            "score": 0.04955269396305084
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.04409439116716385
+        }
+    ],
+    [
+        {
+            "label": "slapping",
+            "score": 0.10738936811685562
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.08230260014533997
+        },
+        {
+            "label": "headbutting",
+            "score": 0.08159800618886948
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.0644671767950058
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.04935644567012787
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.43625056743621826
+        },
+        {
+            "label": "clean and jerk",
+            "score": 0.06284285336732864
+        },
+        {
+            "label": "trimming or shaving beard",
+            "score": 0.04388479143381119
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.037034183740615845
+        },
+        {
+            "label": "snatch weight lifting",
+            "score": 0.03592762351036072
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.1656731516122818
+        },
+        {
+            "label": "clean and jerk",
+            "score": 0.08526240289211273
+        },
+        {
+            "label": "singing",
+            "score": 0.05566484108567238
+        },
+        {
+            "label": "answering questions",
+            "score": 0.04109783098101616
+        },
+        {
+            "label": "slapping",
+            "score": 0.03889743611216545
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.11215784400701523
+        },
+        {
+            "label": "singing",
+            "score": 0.09421364963054657
+        },
+        {
+            "label": "gargling",
+            "score": 0.06358709186315536
+        },
+        {
+            "label": "clean and jerk",
+            "score": 0.0535297654569149
+        },
+        {
+            "label": "answering questions",
+            "score": 0.046946581453084946
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.305308997631073
+        },
+        {
+            "label": "clean and jerk",
+            "score": 0.08149091899394989
+        },
+        {
+            "label": "playing squash or racquetball",
+            "score": 0.07891124486923218
+        },
+        {
+            "label": "snatch weight lifting",
+            "score": 0.059923745691776276
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.029839226976037025
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.3229790925979614
+        },
+        {
+            "label": "clean and jerk",
+            "score": 0.15604014694690704
+        },
+        {
+            "label": "snatch weight lifting",
+            "score": 0.07620852440595627
+        },
+        {
+            "label": "playing squash or racquetball",
+            "score": 0.022925077006220818
+        },
+        {
+            "label": "pull ups",
+            "score": 0.020780250430107117
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.2610389292240143
+        },
+        {
+            "label": "sign language interpreting",
+            "score": 0.05616402253508568
+        },
+        {
+            "label": "answering questions",
+            "score": 0.03176937252283096
+        },
+        {
+            "label": "slapping",
+            "score": 0.03137645497918129
+        },
+        {
+            "label": "gargling",
+            "score": 0.030009372159838676
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.3543577194213867
+        },
+        {
+            "label": "trimming or shaving beard",
+            "score": 0.06097299978137016
+        },
+        {
+            "label": "sign language interpreting",
+            "score": 0.03772377222776413
+        },
+        {
+            "label": "gargling",
+            "score": 0.03333611413836479
+        },
+        {
+            "label": "clean and jerk",
+            "score": 0.027854694053530693
+        }
+    ],
+    [
+        {
+            "label": "gargling",
+            "score": 0.1995144635438919
+        },
+        {
+            "label": "shaving head",
+            "score": 0.1303912252187729
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.07056453078985214
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.06619694828987122
+        },
+        {
+            "label": "trimming or shaving beard",
+            "score": 0.05374869704246521
+        }
+    ],
+    [
+        {
+            "label": "gargling",
+            "score": 0.1120806336402893
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.056180860847234726
+        },
+        {
+            "label": "sign language interpreting",
+            "score": 0.043907273560762405
+        },
+        {
+            "label": "drinking beer",
+            "score": 0.0397128090262413
+        },
+        {
+            "label": "slapping",
+            "score": 0.03579935058951378
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.2254764586687088
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.05856984481215477
+        },
+        {
+            "label": "trimming or shaving beard",
+            "score": 0.05491049215197563
+        },
+        {
+            "label": "flipping pancake",
+            "score": 0.03983683884143829
+        },
+        {
+            "label": "gargling",
+            "score": 0.03980220481753349
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.15272095799446106
+        },
+        {
+            "label": "flipping pancake",
+            "score": 0.04450990632176399
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.03802134469151497
+        },
+        {
+            "label": "sign language interpreting",
+            "score": 0.02890807017683983
+        },
+        {
+            "label": "gargling",
+            "score": 0.02699022740125656
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.13986504077911377
+        },
+        {
+            "label": "clean and jerk",
+            "score": 0.07631261646747589
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.0613534189760685
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.04735518619418144
+        },
+        {
+            "label": "snatch weight lifting",
+            "score": 0.028965996578335762
+        }
+    ],
+    [
+        {
+            "label": "clean and jerk",
+            "score": 0.0660853162407875
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.06138763949275017
+        },
+        {
+            "label": "snatch weight lifting",
+            "score": 0.04419878125190735
+        },
+        {
+            "label": "slapping",
+            "score": 0.03802778571844101
+        },
+        {
+            "label": "shaving head",
+            "score": 0.035160209983587265
+        }
+    ],
+    [
+        {
+            "label": "slapping",
+            "score": 0.10132858157157898
+        },
+        {
+            "label": "air drumming",
+            "score": 0.0366964191198349
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.03335261717438698
+        },
+        {
+            "label": "gargling",
+            "score": 0.0331641361117363
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.032812319695949554
+        }
+    ],
+    [
+        {
+            "label": "gargling",
+            "score": 0.085353322327137
+        },
+        {
+            "label": "slapping",
+            "score": 0.08387316018342972
+        },
+        {
+            "label": "reading book",
+            "score": 0.04508714750409126
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.03804217278957367
+        },
+        {
+            "label": "air drumming",
+            "score": 0.037310708314180374
+        }
+    ],
+    [
+        {
+            "label": "gargling",
+            "score": 0.1714649796485901
+        },
+        {
+            "label": "eating chips",
+            "score": 0.09667481482028961
+        },
+        {
+            "label": "slapping",
+            "score": 0.07470279186964035
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.06920105218887329
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.05210238695144653
+        }
+    ],
+    [
+        {
+            "label": "flipping pancake",
+            "score": 0.28462105989456177
+        },
+        {
+            "label": "gargling",
+            "score": 0.07724995166063309
+        },
+        {
+            "label": "eating chips",
+            "score": 0.06860034912824631
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.04847769811749458
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.04797939956188202
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.07843117415904999
+        },
+        {
+            "label": "dancing macarena",
+            "score": 0.0336083360016346
+        },
+        {
+            "label": "eating chips",
+            "score": 0.031012440100312233
+        },
+        {
+            "label": "cheerleading",
+            "score": 0.030894510447978973
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.027972564101219177
+        }
+    ],
+    [
+        {
+            "label": "dodgeball",
+            "score": 0.0467318631708622
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.03791213035583496
+        },
+        {
+            "label": "playing basketball",
+            "score": 0.03658359497785568
+        },
+        {
+            "label": "cheerleading",
+            "score": 0.03537729009985924
+        },
+        {
+            "label": "headbutting",
+            "score": 0.03518446534872055
+        }
+    ],
+    [
+        {
+            "label": "tossing coin",
+            "score": 0.06934753805398941
+        },
+        {
+            "label": "juggling balls",
+            "score": 0.060176998376846313
+        },
+        {
+            "label": "flipping pancake",
+            "score": 0.05596265569329262
+        },
+        {
+            "label": "gargling",
+            "score": 0.05258573964238167
+        },
+        {
+            "label": "dodgeball",
+            "score": 0.04843270406126976
+        }
+    ],
+    [
+        {
+            "label": "flipping pancake",
+            "score": 0.06083705276250839
+        },
+        {
+            "label": "giving or receiving award",
+            "score": 0.05397278815507889
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.043057993054389954
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.042121972888708115
+        },
+        {
+            "label": "shaving head",
+            "score": 0.03750602528452873
+        }
+    ],
+    [
+        {
+            "label": "flipping pancake",
+            "score": 0.1478206217288971
+        },
+        {
+            "label": "shaving head",
+            "score": 0.07797262817621231
+        },
+        {
+            "label": "gargling",
+            "score": 0.06088022515177727
+        },
+        {
+            "label": "slapping",
+            "score": 0.053059037774801254
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.04508762061595917
+        }
+    ],
+    [
+        {
+            "label": "flipping pancake",
+            "score": 0.10962384939193726
+        },
+        {
+            "label": "slapping",
+            "score": 0.04966593533754349
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.0490582250058651
+        },
+        {
+            "label": "shaving head",
+            "score": 0.04135996848344803
+        },
+        {
+            "label": "sign language interpreting",
+            "score": 0.040188513696193695
+        }
+    ],
+    [
+        {
+            "label": "juggling balls",
+            "score": 0.3508642613887787
+        },
+        {
+            "label": "sign language interpreting",
+            "score": 0.07632198929786682
+        },
+        {
+            "label": "shaving head",
+            "score": 0.02426041103899479
+        },
+        {
+            "label": "contact juggling",
+            "score": 0.023780114948749542
+        },
+        {
+            "label": "air drumming",
+            "score": 0.022608349099755287
+        }
+    ],
+    [
+        {
+            "label": "shaving head",
+            "score": 0.1935262531042099
+        },
+        {
+            "label": "trimming or shaving beard",
+            "score": 0.07612152397632599
+        },
+        {
+            "label": "sign language interpreting",
+            "score": 0.04898449033498764
+        },
+        {
+            "label": "stretching arm",
+            "score": 0.03482753410935402
+        },
+        {
+            "label": "pull ups",
+            "score": 0.03231265768408775
+        }
+    ],
+    [
+        {
+            "label": "gargling",
+            "score": 0.24891427159309387
+        },
+        {
+            "label": "sign language interpreting",
+            "score": 0.064006507396698
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.04262622445821762
+        },
+        {
+            "label": "trimming or shaving beard",
+            "score": 0.03956233337521553
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.034649867564439774
+        }
+    ],
+    [
+        {
+            "label": "gargling",
+            "score": 0.3071037232875824
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.08028227835893631
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.04316622391343117
+        },
+        {
+            "label": "eating chips",
+            "score": 0.04088517650961876
+        },
+        {
+            "label": "air drumming",
+            "score": 0.027002599090337753
+        }
+    ],
+    [
+        {
+            "label": "gargling",
+            "score": 0.3537585139274597
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.18195518851280212
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.07039105892181396
+        },
+        {
+            "label": "singing",
+            "score": 0.053734734654426575
+        },
+        {
+            "label": "drinking",
+            "score": 0.03676067292690277
+        }
+    ],
+    [
+        {
+            "label": "gargling",
+            "score": 0.2404407411813736
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.16598568856716156
+        },
+        {
+            "label": "eating chips",
+            "score": 0.10605794191360474
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.10267148166894913
+        },
+        {
+            "label": "drinking beer",
+            "score": 0.048749975860118866
+        }
+    ],
+    [
+        {
+            "label": "eating hotdog",
+            "score": 0.07285954803228378
+        },
+        {
+            "label": "eating chips",
+            "score": 0.06264868378639221
+        },
+        {
+            "label": "gargling",
+            "score": 0.043933432549238205
+        },
+        {
+            "label": "drinking",
+            "score": 0.04245651140809059
+        },
+        {
+            "label": "drinking beer",
+            "score": 0.040943924337625504
+        }
+    ],
+    [
+        {
+            "label": "eating doughnuts",
+            "score": 0.2254447191953659
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.12012072652578354
+        },
+        {
+            "label": "gargling",
+            "score": 0.10438957810401917
+        },
+        {
+            "label": "shaving head",
+            "score": 0.10285313427448273
+        },
+        {
+            "label": "eating chips",
+            "score": 0.07817210257053375
+        }
+    ],
+    [
+        {
+            "label": "trimming or shaving beard",
+            "score": 0.1261540949344635
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.07091797888278961
+        },
+        {
+            "label": "slapping",
+            "score": 0.0434299111366272
+        },
+        {
+            "label": "drinking",
+            "score": 0.04140688106417656
+        },
+        {
+            "label": "shaving head",
+            "score": 0.04113675653934479
+        }
+    ],
+    [
+        {
+            "label": "spraying",
+            "score": 0.11390973627567291
+        },
+        {
+            "label": "blasting sand",
+            "score": 0.11298497021198273
+        },
+        {
+            "label": "spray painting",
+            "score": 0.10591872036457062
+        },
+        {
+            "label": "plastering",
+            "score": 0.06282353401184082
+        },
+        {
+            "label": "rock climbing",
+            "score": 0.04257023707032204
+        }
+    ],
+    [
+        {
+            "label": "rock climbing",
+            "score": 0.11168167740106583
+        },
+        {
+            "label": "pushing cart",
+            "score": 0.10095566511154175
+        },
+        {
+            "label": "ice climbing",
+            "score": 0.08783514052629471
+        },
+        {
+            "label": "pushing car",
+            "score": 0.07842559367418289
+        },
+        {
+            "label": "climbing ladder",
+            "score": 0.03672417253255844
+        }
+    ],
+    [
+        {
+            "label": "tango dancing",
+            "score": 0.19107870757579803
+        },
+        {
+            "label": "playing didgeridoo",
+            "score": 0.17804184556007385
+        },
+        {
+            "label": "triple jump",
+            "score": 0.07738610357046127
+        },
+        {
+            "label": "long jump",
+            "score": 0.06103411316871643
+        },
+        {
+            "label": "tap dancing",
+            "score": 0.05084577947854996
+        }
+    ],
+    [
+        {
+            "label": "tap dancing",
+            "score": 0.08214843273162842
+        },
+        {
+            "label": "cheerleading",
+            "score": 0.052774399518966675
+        },
+        {
+            "label": "shooting basketball",
+            "score": 0.04868951439857483
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.047514449805021286
+        },
+        {
+            "label": "playing basketball",
+            "score": 0.04378027096390724
+        }
+    ],
+    [
+        {
+            "label": "robot dancing",
+            "score": 0.1309559941291809
+        },
+        {
+            "label": "dancing macarena",
+            "score": 0.1069914698600769
+        },
+        {
+            "label": "beatboxing",
+            "score": 0.07636337727308273
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.07121702283620834
+        },
+        {
+            "label": "air drumming",
+            "score": 0.036357276141643524
+        }
+    ],
+    [
+        {
+            "label": "eating hotdog",
+            "score": 0.3057717978954315
+        },
+        {
+            "label": "drinking",
+            "score": 0.10007123649120331
+        },
+        {
+            "label": "drinking shots",
+            "score": 0.07138879597187042
+        },
+        {
+            "label": "drinking beer",
+            "score": 0.0571395605802536
+        },
+        {
+            "label": "eating burger",
+            "score": 0.05624301731586456
+        }
+    ],
+    [
+        {
+            "label": "eating hotdog",
+            "score": 0.564903199672699
+        },
+        {
+            "label": "eating chips",
+            "score": 0.20325657725334167
+        },
+        {
+            "label": "eating ice cream",
+            "score": 0.03854179009795189
+        },
+        {
+            "label": "tasting food",
+            "score": 0.030256731435656548
+        },
+        {
+            "label": "eating burger",
+            "score": 0.02797088399529457
+        }
+    ],
+    [
+        {
+            "label": "eating hotdog",
+            "score": 0.34762489795684814
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.07320234179496765
+        },
+        {
+            "label": "tasting food",
+            "score": 0.06710243970155716
+        },
+        {
+            "label": "eating chips",
+            "score": 0.05610980466008186
+        },
+        {
+            "label": "eating ice cream",
+            "score": 0.03555159643292427
+        }
+    ],
+    [
+        {
+            "label": "eating hotdog",
+            "score": 0.36956387758255005
+        },
+        {
+            "label": "eating burger",
+            "score": 0.08629098534584045
+        },
+        {
+            "label": "eating chips",
+            "score": 0.06305692344903946
+        },
+        {
+            "label": "making pizza",
+            "score": 0.031531304121017456
+        },
+        {
+            "label": "tasting food",
+            "score": 0.025676459074020386
+        }
+    ],
+    [
+        {
+            "label": "long jump",
+            "score": 0.21901464462280273
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.18247148394584656
+        },
+        {
+            "label": "shot put",
+            "score": 0.07223962247371674
+        },
+        {
+            "label": "triple jump",
+            "score": 0.06306977570056915
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.055279094725847244
+        }
+    ],
+    [
+        {
+            "label": "drinking",
+            "score": 0.14576873183250427
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.11702998727560043
+        },
+        {
+            "label": "playing badminton",
+            "score": 0.10447604209184647
+        },
+        {
+            "label": "playing basketball",
+            "score": 0.06767400354146957
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.059166762977838516
+        }
+    ],
+    [
+        {
+            "label": "eating hotdog",
+            "score": 0.11455104500055313
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.07729961723089218
+        },
+        {
+            "label": "eating chips",
+            "score": 0.04970501735806465
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.04630821570754051
+        },
+        {
+            "label": "playing recorder",
+            "score": 0.026690807193517685
+        }
+    ],
+    [
+        {
+            "label": "playing recorder",
+            "score": 0.05361029505729675
+        },
+        {
+            "label": "singing",
+            "score": 0.051099423319101334
+        },
+        {
+            "label": "gargling",
+            "score": 0.04201440513134003
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.031993430107831955
+        },
+        {
+            "label": "drinking",
+            "score": 0.03172611445188522
+        }
+    ],
+    [
+        {
+            "label": "yawning",
+            "score": 0.40101146697998047
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.0817265585064888
+        },
+        {
+            "label": "sneezing",
+            "score": 0.04196150228381157
+        },
+        {
+            "label": "eating chips",
+            "score": 0.0395829975605011
+        },
+        {
+            "label": "gargling",
+            "score": 0.03412741422653198
+        }
+    ],
+    [
+        {
+            "label": "singing",
+            "score": 0.23805294930934906
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.15591174364089966
+        },
+        {
+            "label": "yawning",
+            "score": 0.04027203097939491
+        },
+        {
+            "label": "long jump",
+            "score": 0.036801841109991074
+        },
+        {
+            "label": "springboard diving",
+            "score": 0.02899160236120224
+        }
+    ],
+    [
+        {
+            "label": "long jump",
+            "score": 0.13387638330459595
+        },
+        {
+            "label": "shot put",
+            "score": 0.1141543760895729
+        },
+        {
+            "label": "playing badminton",
+            "score": 0.10063828527927399
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.10024817287921906
+        },
+        {
+            "label": "catching or throwing frisbee",
+            "score": 0.08414246141910553
+        }
+    ],
+    [
+        {
+            "label": "eating hotdog",
+            "score": 0.10082153230905533
+        },
+        {
+            "label": "shot put",
+            "score": 0.07743994146585464
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.07136772572994232
+        },
+        {
+            "label": "springboard diving",
+            "score": 0.036823876202106476
+        },
+        {
+            "label": "playing ice hockey",
+            "score": 0.034073606133461
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.15354490280151367
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.06446187943220139
+        },
+        {
+            "label": "skateboarding",
+            "score": 0.046234872192144394
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.03554103896021843
+        },
+        {
+            "label": "news anchoring",
+            "score": 0.029828356578946114
+        }
+    ],
+    [
+        {
+            "label": "eating chips",
+            "score": 0.18224434554576874
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.1685815006494522
+        },
+        {
+            "label": "gargling",
+            "score": 0.07403137534856796
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.04448781907558441
+        },
+        {
+            "label": "catching or throwing frisbee",
+            "score": 0.03760910779237747
+        }
+    ],
+    [
+        {
+            "label": "long jump",
+            "score": 0.2740938663482666
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.22819100320339203
+        },
+        {
+            "label": "shot put",
+            "score": 0.12141384184360504
+        },
+        {
+            "label": "triple jump",
+            "score": 0.05348389968276024
+        },
+        {
+            "label": "high jump",
+            "score": 0.03257608041167259
+        }
+    ],
+    [
+        {
+            "label": "eating hotdog",
+            "score": 0.1801878809928894
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.1464155912399292
+        },
+        {
+            "label": "eating chips",
+            "score": 0.09920740872621536
+        },
+        {
+            "label": "shot put",
+            "score": 0.07879017293453217
+        },
+        {
+            "label": "eating doughnuts",
+            "score": 0.05555592104792595
+        }
+    ],
+    [
+        {
+            "label": "singing",
+            "score": 0.617658257484436
+        },
+        {
+            "label": "yawning",
+            "score": 0.13056573271751404
+        },
+        {
+            "label": "whistling",
+            "score": 0.03283896669745445
+        },
+        {
+            "label": "crying",
+            "score": 0.02112310379743576
+        },
+        {
+            "label": "sneezing",
+            "score": 0.015720045194029808
+        }
+    ],
+    [
+        {
+            "label": "beatboxing",
+            "score": 0.1766737401485443
+        },
+        {
+            "label": "eating hotdog",
+            "score": 0.17198042571544647
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.06691230088472366
+        },
+        {
+            "label": "singing",
+            "score": 0.059857964515686035
+        },
+        {
+            "label": "shot put",
+            "score": 0.051924798637628555
+        }
+    ],
+    [
+        {
+            "label": "long jump",
+            "score": 0.7981902956962585
+        },
+        {
+            "label": "triple jump",
+            "score": 0.11334022134542465
+        },
+        {
+            "label": "shot put",
+            "score": 0.02467421442270279
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.01806269958615303
+        },
+        {
+            "label": "javelin throw",
+            "score": 0.015255791135132313
+        }
+    ],
+    [
+        {
+            "label": "playing volleyball",
+            "score": 0.1403399258852005
+        },
+        {
+            "label": "long jump",
+            "score": 0.061964001506567
+        },
+        {
+            "label": "shooting basketball",
+            "score": 0.04142134636640549
+        },
+        {
+            "label": "playing basketball",
+            "score": 0.03993590921163559
+        },
+        {
+            "label": "tossing coin",
+            "score": 0.036500632762908936
+        }
+    ],
+    [
+        {
+            "label": "playing volleyball",
+            "score": 0.15914666652679443
+        },
+        {
+            "label": "long jump",
+            "score": 0.0882948711514473
+        },
+        {
+            "label": "vault",
+            "score": 0.08460909128189087
+        },
+        {
+            "label": "shot put",
+            "score": 0.05989846959710121
+        },
+        {
+            "label": "cheerleading",
+            "score": 0.04809175804257393
+        }
+    ],
+    [
+        {
+            "label": "long jump",
+            "score": 0.3600524067878723
+        },
+        {
+            "label": "shot put",
+            "score": 0.16186852753162384
+        },
+        {
+            "label": "vault",
+            "score": 0.11396326124668121
+        },
+        {
+            "label": "playing volleyball",
+            "score": 0.09581159055233002
+        },
+        {
+            "label": "triple jump",
+            "score": 0.04019604250788689
+        }
+    ]
+]

@@ -1,0 +1,1064 @@
+2024-12-02 16:36:48,945 [INFO] Starting feature extraction/classification for video: output_classes/features/shooting
+2024-12-02 16:36:48,948 [INFO] Found 902 frames in output_classes/features/temp/.
+2024-12-02 16:36:48,948 [INFO] Generated frame indices for 56 segments.
+2024-12-02 16:36:48,948 [INFO] Split into 3 batches with batch size 20.
+2024-12-02 16:36:48,949 [INFO] Processing batch 1/3
+2024-12-02 16:36:48,949 [INFO] Loading RGB batch...
+2024-12-02 16:36:50,226 [INFO] RGB batch loaded successfully.
+2024-12-02 16:36:50,226 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:36:51,572 [INFO] Forward pass completed.
+2024-12-02 16:36:51,744 [INFO] Processing batch 2/3
+2024-12-02 16:36:51,744 [INFO] Loading RGB batch...
+2024-12-02 16:36:52,995 [INFO] RGB batch loaded successfully.
+2024-12-02 16:36:53,011 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:36:53,130 [INFO] Forward pass completed.
+2024-12-02 16:36:53,302 [INFO] Processing batch 3/3
+2024-12-02 16:36:53,302 [INFO] Loading RGB batch...
+2024-12-02 16:36:54,484 [INFO] RGB batch loaded successfully.
+2024-12-02 16:36:54,498 [INFO] Running forward pass for batch with shape: (18, 16, 224, 224, 3)
+2024-12-02 16:36:54,602 [INFO] Forward pass completed.
+2024-12-02 16:36:54,762 [INFO] Performing classification...
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 355, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 355, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 53, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 53, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 355, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 53, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 355, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 53, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 53, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 257, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,765 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 355, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 168, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 168, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 207, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 372, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 372, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 372, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,766 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 372, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 240, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 240, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 355, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 240, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 240, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 267, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 267, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,767 [INFO] scores[rank]: 267, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 267, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 267, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 267, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 267, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 267, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 267, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,768 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 103, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 199, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 274, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,769 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:36:54,770 [INFO] Classification results saved to output_classes/features/shooting_classification.json
+2024-12-02 16:38:21,027 [INFO] Starting feature extraction/classification for video: output_classes/features/shooting
+2024-12-02 16:38:21,033 [INFO] Found 902 frames in output_classes/features/temp/.
+2024-12-02 16:38:21,033 [INFO] Generated frame indices for 56 segments.
+2024-12-02 16:38:21,033 [INFO] Split into 3 batches with batch size 20.
+2024-12-02 16:38:21,034 [INFO] Processing batch 1/3
+2024-12-02 16:38:21,034 [INFO] Loading RGB batch...
+2024-12-02 16:38:22,314 [INFO] RGB batch loaded successfully.
+2024-12-02 16:38:22,314 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:38:23,646 [INFO] Forward pass completed.
+2024-12-02 16:38:23,818 [INFO] Processing batch 2/3
+2024-12-02 16:38:23,819 [INFO] Loading RGB batch...
+2024-12-02 16:38:25,064 [INFO] RGB batch loaded successfully.
+2024-12-02 16:38:25,079 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:38:25,186 [INFO] Forward pass completed.
+2024-12-02 16:38:25,357 [INFO] Processing batch 3/3
+2024-12-02 16:38:25,357 [INFO] Loading RGB batch...
+2024-12-02 16:38:26,539 [INFO] RGB batch loaded successfully.
+2024-12-02 16:38:26,555 [INFO] Running forward pass for batch with shape: (18, 16, 224, 224, 3)
+2024-12-02 16:38:26,667 [INFO] Forward pass completed.
+2024-12-02 16:38:26,831 [INFO] Performing feature extraction...
+2024-12-02 16:38:26,831 [INFO] Features saved to output_classes/features/shooting_features.npy, shape: (56, 2048)
+2024-12-02 16:52:41,549 [INFO] Starting feature extraction/classification for video: output_classes/features/vandalism_paint
+2024-12-02 16:52:41,556 [INFO] Found 2124 frames in output_classes/features/temp/.
+2024-12-02 16:52:41,556 [INFO] Generated frame indices for 132 segments.
+2024-12-02 16:52:41,556 [INFO] Split into 7 batches with batch size 20.
+2024-12-02 16:52:41,556 [INFO] Processing batch 1/7
+2024-12-02 16:52:41,556 [INFO] Loading RGB batch...
+2024-12-02 16:52:42,856 [INFO] RGB batch loaded successfully.
+2024-12-02 16:52:42,856 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:52:44,278 [INFO] Forward pass completed.
+2024-12-02 16:52:44,468 [INFO] Processing batch 2/7
+2024-12-02 16:52:44,468 [INFO] Loading RGB batch...
+2024-12-02 16:52:45,762 [INFO] RGB batch loaded successfully.
+2024-12-02 16:52:45,776 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:52:45,887 [INFO] Forward pass completed.
+2024-12-02 16:52:46,059 [INFO] Processing batch 3/7
+2024-12-02 16:52:46,059 [INFO] Loading RGB batch...
+2024-12-02 16:52:47,312 [INFO] RGB batch loaded successfully.
+2024-12-02 16:52:47,332 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:52:47,457 [INFO] Forward pass completed.
+2024-12-02 16:52:47,630 [INFO] Processing batch 4/7
+2024-12-02 16:52:47,631 [INFO] Loading RGB batch...
+2024-12-02 16:52:48,879 [INFO] RGB batch loaded successfully.
+2024-12-02 16:52:48,897 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:52:49,008 [INFO] Forward pass completed.
+2024-12-02 16:52:49,182 [INFO] Processing batch 5/7
+2024-12-02 16:52:49,182 [INFO] Loading RGB batch...
+2024-12-02 16:52:50,428 [INFO] RGB batch loaded successfully.
+2024-12-02 16:52:50,450 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:52:50,565 [INFO] Forward pass completed.
+2024-12-02 16:52:50,737 [INFO] Processing batch 6/7
+2024-12-02 16:52:50,737 [INFO] Loading RGB batch...
+2024-12-02 16:52:51,984 [INFO] RGB batch loaded successfully.
+2024-12-02 16:52:52,002 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:52:52,130 [INFO] Forward pass completed.
+2024-12-02 16:52:52,302 [INFO] Processing batch 7/7
+2024-12-02 16:52:52,302 [INFO] Loading RGB batch...
+2024-12-02 16:52:53,491 [INFO] RGB batch loaded successfully.
+2024-12-02 16:52:53,517 [INFO] Running forward pass for batch with shape: (18, 16, 224, 224, 3)
+2024-12-02 16:52:53,624 [INFO] Forward pass completed.
+2024-12-02 16:52:53,787 [INFO] Performing feature extraction...
+2024-12-02 16:52:53,787 [INFO] Features saved to output_classes/features/vandalism_paint_features.npy, shape: (132, 2048)
+2024-12-02 16:53:19,410 [INFO] Starting feature extraction/classification for video: output_classes/features/vandalism_paint
+2024-12-02 16:53:19,417 [INFO] Found 2124 frames in output_classes/features/temp/.
+2024-12-02 16:53:19,418 [INFO] Generated frame indices for 132 segments.
+2024-12-02 16:53:19,418 [INFO] Split into 7 batches with batch size 20.
+2024-12-02 16:53:19,418 [INFO] Processing batch 1/7
+2024-12-02 16:53:19,418 [INFO] Loading RGB batch...
+2024-12-02 16:53:20,698 [INFO] RGB batch loaded successfully.
+2024-12-02 16:53:20,698 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:53:22,066 [INFO] Forward pass completed.
+2024-12-02 16:53:22,243 [INFO] Processing batch 2/7
+2024-12-02 16:53:22,243 [INFO] Loading RGB batch...
+2024-12-02 16:53:23,493 [INFO] RGB batch loaded successfully.
+2024-12-02 16:53:23,510 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:53:23,625 [INFO] Forward pass completed.
+2024-12-02 16:53:23,797 [INFO] Processing batch 3/7
+2024-12-02 16:53:23,797 [INFO] Loading RGB batch...
+2024-12-02 16:53:25,048 [INFO] RGB batch loaded successfully.
+2024-12-02 16:53:25,061 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:53:25,166 [INFO] Forward pass completed.
+2024-12-02 16:53:25,336 [INFO] Processing batch 4/7
+2024-12-02 16:53:25,336 [INFO] Loading RGB batch...
+2024-12-02 16:53:26,594 [INFO] RGB batch loaded successfully.
+2024-12-02 16:53:26,614 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:53:26,722 [INFO] Forward pass completed.
+2024-12-02 16:53:26,895 [INFO] Processing batch 5/7
+2024-12-02 16:53:26,895 [INFO] Loading RGB batch...
+2024-12-02 16:53:28,136 [INFO] RGB batch loaded successfully.
+2024-12-02 16:53:28,149 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:53:28,257 [INFO] Forward pass completed.
+2024-12-02 16:53:28,428 [INFO] Processing batch 6/7
+2024-12-02 16:53:28,428 [INFO] Loading RGB batch...
+2024-12-02 16:53:29,678 [INFO] RGB batch loaded successfully.
+2024-12-02 16:53:29,695 [INFO] Running forward pass for batch with shape: (19, 16, 224, 224, 3)
+2024-12-02 16:53:29,820 [INFO] Forward pass completed.
+2024-12-02 16:53:29,994 [INFO] Processing batch 7/7
+2024-12-02 16:53:29,994 [INFO] Loading RGB batch...
+2024-12-02 16:53:31,200 [INFO] RGB batch loaded successfully.
+2024-12-02 16:53:31,215 [INFO] Running forward pass for batch with shape: (18, 16, 224, 224, 3)
+2024-12-02 16:53:31,327 [INFO] Forward pass completed.
+2024-12-02 16:53:31,488 [INFO] Performing classification...
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 176, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 158, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 377, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 158, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 87, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 85, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 176, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 158, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 346, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 158, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 87, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 176, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 158, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 346, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 176, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 176, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 346, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 346, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 87, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,492 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 176, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 382, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 216, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 327, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 57, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 346, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 57, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 216, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 65, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 216, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 216, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 150, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 220, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 107, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 346, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 216, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 186, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 288, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 150, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 186, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 398, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 334, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 333, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 20, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 194, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 398, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 276, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 264, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 7, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 204, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 249, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 109, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 115, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 353, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 110, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 188, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 109, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 264, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,493 [INFO] scores[rank]: 204, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 233, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 9, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 346, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 304, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 346, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 9, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 27, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 91, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 87, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 303, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 48, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 301, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 242, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 222, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 50, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 349, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 84, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 48, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 87, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 86, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 34, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 11, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 238, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 188, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 74, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 242, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 27, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 238, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 188, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 11, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 353, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 27, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 188, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 301, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 11, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 48, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 50, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 48, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 50, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 249, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 369, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 353, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 301, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 301, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 243, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 48, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 209, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,494 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 301, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 48, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 209, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 243, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 243, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 249, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 155, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 355, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 48, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 243, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 155, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 355, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 81, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 11, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 11, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 209, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 301, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 155, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 188, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 382, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 11, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 249, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 155, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 350, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 291, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 81, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 11, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 291, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 350, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 350, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 249, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 11, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 188, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 188, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 11, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 24, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 11, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 188, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 108, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 279, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 349, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 303, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 395, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 156, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 84, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 298, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 349, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 57, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,495 [INFO] scores[rank]: 84, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 55, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 296, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 129, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 115, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 353, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 169, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 150, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 127, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 316, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 245, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,496 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 150, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 245, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 245, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 245, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 245, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 245, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 245, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 318, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 376, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 245, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 245, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 296, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 150, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 150, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,497 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 365, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 318, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 304, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 2, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 304, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 2, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 245, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 318, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 318, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 245, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 255, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 303, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 2, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 365, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 303, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 365, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 303, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 101, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 365, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 129, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 129, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 303, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 318, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 59, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 318, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,498 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 264, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 129, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 87, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 55, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 220, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 55, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 150, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 169, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 129, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 94, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 129, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 140, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 129, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 129, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 303, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 169, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 303, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 69, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 365, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 303, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 333, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 255, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 303, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 365, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,499 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 304, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 100, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 101, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 100, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 101, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 365, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 314, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 100, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 292, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 328, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 23, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 327, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 216, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 278, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 278, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 262, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 162, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 261, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 67, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 348, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 229, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 367, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 182, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 349, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 349, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 55, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 296, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 220, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 277, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 87, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 1, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 100, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 102, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 101, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 109, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 115, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 353, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 109, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,500 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 353, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 115, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 109, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 188, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 353, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 182, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 298, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 367, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 100, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 218, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 220, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 243, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 243, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 304, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 100, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 397, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 319, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 304, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 397, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 182, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 329, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 182, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 298, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 218, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 49, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 298, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 329, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 235, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 306, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 202, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 137, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 49, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 182, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 298, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 367, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 151, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 112, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,501 [INFO] scores[rank]: 298, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 113, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 304, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 397, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 392, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 79, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 319, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 16, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 114, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 304, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 298, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 182, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 367, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 298, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 166, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 182, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 296, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 220, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 361, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 182, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 376, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 298, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 55, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 182, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 298, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 376, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 251, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,502 [INFO] scores[rank]: 367, type: <class 'numpy.int64'>
+2024-12-02 16:53:31,504 [INFO] Classification results saved to output_classes/features/vandalism_paint_classification.json
